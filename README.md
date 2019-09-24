@@ -1,2 +1,2 @@
-# Fundamentals-of-Software-Engineering
-Fundamentals of Software Engineering 2019.2
+# Fundamentos de engenharia de software
+Período: 2019.2
